@@ -1,2 +1,2 @@
 # shortcuts
-Standard Keyboard Shortcut Descriptions Across Rinvey's Products.
+Standard Keyboard Shortcut Descriptions Defined By Rinvey.
